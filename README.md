@@ -1,4 +1,7 @@
 
+# Mods Added
+
+
 # Warlords Redux
 Warlords Redux is a community upgrade project for the Original Warlords Redux. 
 
